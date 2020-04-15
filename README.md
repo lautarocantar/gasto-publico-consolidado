@@ -33,7 +33,7 @@ Aquí se puede acceder a dichos archivos (al hacer click, se descarga cada uno d
 
 ### Diccionario de variables
 
-Con el código que se encuentra en la carpeta `01_scripts/` (escritos en R), se logra pasar de cada archivo individual a una gran tabla que es más sencilla de trabajar con filtros y es más adecuada para realizar visualizaciones. [Aquí se puede descargar el archivo final]()
+Con el código que se encuentra en la carpeta `01_scripts/` (escritos en R), se logra pasar de cada archivo individual a una gran tabla que es más sencilla de trabajar con filtros y es más adecuada para realizar visualizaciones. [Aquí se puede descargar el archivo final](https://github.com/lautarocantar/gasto-publico-consolidado/raw/master/02_archivos/02_03_finales/consolidado_final.xlsx)
 
 #### Variables:
 
