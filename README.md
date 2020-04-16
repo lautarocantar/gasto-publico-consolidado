@@ -26,7 +26,7 @@ La Secretaría de Política Económica publica 4 archivos diferentes (uno para c
 
 Aquí se puede acceder a dichos archivos (al hacer click, se descarga cada uno de los archivos):
 
-* [Gasto público consolidado por finalidad y función 1980-2017](https://www.argentina.gob.ar/sites/default/files/gasto_publico_consolidado_1980-2017.xlx)
+* [Gasto público consolidado por finalidad y función 1980-2017](https://www.argentina.gob.ar/sites/default/files/gasto_publico_consolidado_1980-2017.xls)
 * [Gasto público nacional por finalidad y función 1980-2017](https://www.argentina.gob.ar/sites/default/files/gasto_publico_nacional_1980-2017.xls)
 * [Gasto público provincial por finalidad y función 1980-2017](https://www.argentina.gob.ar/sites/default/files/gasto_publico_provincial_1980-2017.xls)
 * [Gasto público municipal por finalidad y función 1980-2017](https://www.argentina.gob.ar/sites/default/files/gasto_publico_municipal_1980-2017.xls)
